@@ -1,1 +1,1 @@
-git directory
+This is the root directory
