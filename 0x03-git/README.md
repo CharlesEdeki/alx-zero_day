@@ -1,1 +1,1 @@
-Alx zero day repo
+# Learning to use bash scripting and basic git commands
